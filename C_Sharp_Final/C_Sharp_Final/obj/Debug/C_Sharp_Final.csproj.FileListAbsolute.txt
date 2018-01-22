@@ -1,0 +1,10 @@
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\bin\Debug\C_Sharp_Final.exe.config
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\bin\Debug\C_Sharp_Final.exe
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\bin\Debug\C_Sharp_Final.pdb
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.csprojResolveAssemblyReference.cache
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.Properties.Resources.resources
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.csproj.GenerateResource.Cache
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.exe
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.pdb
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.Home_Page.resources
+C:\Users\Araz\Desktop\C_Sharp_Final\C_Sharp_Final\obj\Debug\C_Sharp_Final.AdminPanelForm.resources
